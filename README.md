@@ -10,7 +10,7 @@ A Flutter music library app capable of rendering and interacting with 50,000+ tr
 
 ## Demo Video
 
-[Watch Demo Video](https://github.com/sourabhvamdevan/music_assignment/blob/master/assets/demo/demo.mp4)
+[![Watch Demo](https://img.youtube.com/vi/RDE7AvrUcGg/0.jpg)](https://youtube.com/shorts/RDE7AvrUcGg?feature=share)
 
 
 
