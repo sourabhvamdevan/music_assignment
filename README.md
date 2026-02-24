@@ -7,6 +7,14 @@
 A Flutter music library app capable of rendering and interacting with 50,000+ tracks smoothly using paging and optimized state management.
 
 ---
+## Demo Video
+
+https://github.com/sourabhvamdevan/music_assignment/blob/main/assets/demo/demo.mp4
+
+
+
+
+
 
 ## Features
 
