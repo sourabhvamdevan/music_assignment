@@ -3,6 +3,15 @@
 ---
 
 # Music Library App
+![Flutter](https://img.shields.io/badge/Flutter-App-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Programming-0175C2?logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/State%20Management-BLoC-blueviolet)
+![API](https://img.shields.io/badge/API-iTunes%20%7C%20LRCLIB-orange)
+![Audio](https://img.shields.io/badge/Audio-Preview-green)
+![Performance](https://img.shields.io/badge/Performance-50K%2B%20Tracks-success)
+![Pagination](https://img.shields.io/badge/Feature-Infinite%20Scroll-blue)
+![Offline](https://img.shields.io/badge/Support-Offline-red)
+![Platform](https://img.shields.io/badge/Platform-Android-lightgrey?logo=android)
 
 A Flutter music library app capable of rendering and interacting with 50,000+ tracks smoothly using paging and optimized state management.
 
